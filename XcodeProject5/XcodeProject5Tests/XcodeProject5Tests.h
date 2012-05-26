@@ -1,0 +1,13 @@
+//
+//  XcodeProject5Tests.h
+//  XcodeProject5Tests
+//
+//  Created by Robert DeNicola on 5/26/12.
+//  Copyright (c) 2012 Developmental Applications. All rights reserved.
+//
+
+#import <SenTestingKit/SenTestingKit.h>
+
+@interface XcodeProject5Tests : SenTestCase
+
+@end
